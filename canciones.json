@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Dreams",
+    "artista": "Benjamin Tissot",
+    "imagen": "imagenes/dreams.webp",
+    "audio": "audios/bensound-dreams.mp3"
+  },
+  {
+    "nombre": "All That",
+    "artista": "Benjamin Tissot",
+    "imagen": "imagenes/allthat.webp",
+    "audio": "audios/bensound-allthat.mp3"
+  },
+  {
+    "nombre": "Creative Minds",
+    "artista": "Benjamin Tissot",
+    "imagen": "imagenes/creativeminds.webp",
+    "audio": "audios/bensound-creativeminds.mp3"
+  },
+  {
+    "nombre": "Hey!",
+    "artista": "Benjamin Tissot",
+    "imagen": "imagenes/hey.webp",
+    "audio": "audios/bensound-hey.mp3"
+  },
+  {
+    "nombre": "Evolution",
+    "artista": "Benjamin Tissot",
+    "imagen": "imagenes/evolution.webp",
+    "audio": "audios/bensound-evolution.mp3"
+  },
+  {
+    "nombre": "Inspire",
+    "artista": "Benjamin Tissot",
+    "imagen": "imagenes/inspire.webp",
+    "audio": "audios/bensound-inspire.mp3"
+  }
+]
